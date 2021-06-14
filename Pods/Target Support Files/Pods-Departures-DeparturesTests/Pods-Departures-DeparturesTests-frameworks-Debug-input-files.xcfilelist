@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Departures-DeparturesTests/Pods-Departures-DeparturesTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnyErrorKit/AnyErrorKit.framework
+${BUILT_PRODUCTS_DIR}/JSONParsing/JSONParsing.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

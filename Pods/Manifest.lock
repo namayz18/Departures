@@ -1,0 +1,24 @@
+PODS:
+  - AnyErrorKit (0.1.4)
+  - JSONParsing (0.2.1):
+    - AnyErrorKit (~> 0.1.1)
+    - SwiftyJSON (~> 4.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - JSONParsing
+
+SPEC REPOS:
+  trunk:
+    - AnyErrorKit
+    - JSONParsing
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AnyErrorKit: 6083091402347e82158c4e6e565680bdd4d1928c
+  JSONParsing: 042f0e156c69002af7092084f3b9822867270b3d
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: e6d3373adfa95c95368c7a18f50c5492b993ec37
+
+COCOAPODS: 1.9.3
